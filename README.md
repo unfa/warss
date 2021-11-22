@@ -1,9 +1,13 @@
 # warss
-Wrapper script for ARSS
+Wrapper script for ARSS (Analysis & Resynthesis Sound Spectrograph).
 
-[ARSS](http://arss.sourceforge.net/) is currently the only open-source (GPL) piece of software that I could find that will let you synthesize sound based on a spectrogram (image).
+[ARSS](http://arss.sourceforge.net/) is one of a very few only open-source pieces of software that will let you generate sound based on a spectrogram (image).
 
-The issue is - usage of this software is not trivial. I have created this script to make it easier.
+Other two I know of are:
+- https://www.coppercloudmusic.com/enscribe/
+- https://github.com/plurSKI/imageSpectrogram/blob/master/imageSpectrogram.pl
+
+ARSS is pretty neat, but the issue is - usage of this software is not trivial. I have created this script to make it easier for myself, and decided to share it.
 
 ## Dependancies
 
